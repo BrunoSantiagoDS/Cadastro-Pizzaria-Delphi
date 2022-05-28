@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/14 10:05:40.000.477,=C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/14 10:37:38.000.079,=C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/14 10:43:01.000.881,=C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/14 11:37:44.000.739,=C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/05/14 11:54:22.000.212,=C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2022/05/14 12:27:36.000.849,C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\pizzaria\Unit2.pas</Transaction>
+    <Transaction>2022/05/14 12:27:36.000.849,C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\pizzaria\Unit2.dfm</Transaction>
+    <Transaction>2022/05/14 12:27:39.000.116,C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\pizzaria\Unit1.dfm</Transaction>
+    <Transaction>2022/05/14 12:27:39.000.116,C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\pizzaria\Unit1.pas</Transaction>
+    <Transaction>2022/05/14 12:27:40.000.806,C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\pizzaria\Unit3.dfm</Transaction>
+    <Transaction>2022/05/14 12:27:40.000.806,C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\pizzaria\Unit3.pas</Transaction>
+    <Transaction>2022/05/14 12:27:42.000.683,C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\Unit4.dfm=C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\pizzaria\Unit4.dfm</Transaction>
+    <Transaction>2022/05/14 12:27:42.000.683,C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\Unit4.pas=C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\pizzaria\Unit4.pas</Transaction>
+    <Transaction>2022/05/14 12:27:44.000.437,C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\CEAP\Documents\Embarcadero\Studio\Projects\pizzaria\Project1.dproj</Transaction>
+    <Transaction>2022/05/21 10:48:46.167,C:\Users\Alunos\Desktop\pizzariaCerta\Project1.dproj=C:\Users\Alunos\Desktop\codigo\Project1.dproj</Transaction>
+    <Transaction>2022/05/21 10:49:01.605,C:\Users\Alunos\Desktop\pizzariaCerta\Unit1.dfm=C:\Users\Alunos\Desktop\codigo\Unit1.dfm</Transaction>
+    <Transaction>2022/05/21 10:49:01.605,C:\Users\Alunos\Desktop\pizzariaCerta\Unit1.pas=C:\Users\Alunos\Desktop\codigo\Unit1.pas</Transaction>
+    <Transaction>2022/05/21 10:49:25.439,C:\Users\Alunos\Desktop\pizzariaCerta\Unit2.dfm=C:\Users\Alunos\Desktop\codigo\Unit2.dfm</Transaction>
+    <Transaction>2022/05/21 10:49:25.439,C:\Users\Alunos\Desktop\pizzariaCerta\Unit2.pas=C:\Users\Alunos\Desktop\codigo\Unit2.pas</Transaction>
+    <Transaction>2022/05/21 10:49:42.122,C:\Users\Alunos\Desktop\pizzariaCerta\Unit3.dfm=C:\Users\Alunos\Desktop\codigo\Unit3.dfm</Transaction>
+    <Transaction>2022/05/21 10:49:42.122,C:\Users\Alunos\Desktop\pizzariaCerta\Unit3.pas=C:\Users\Alunos\Desktop\codigo\Unit3.pas</Transaction>
+    <Transaction>2022/05/21 10:49:54.258,C:\Users\Alunos\Desktop\pizzariaCerta\Unit4.dfm=C:\Users\Alunos\Desktop\codigo\Unit4.dfm</Transaction>
+    <Transaction>2022/05/21 10:49:54.258,C:\Users\Alunos\Desktop\pizzariaCerta\Unit4.pas=C:\Users\Alunos\Desktop\codigo\Unit4.pas</Transaction>
+  </Transactions>
+</BorlandProject>
